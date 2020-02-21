@@ -17,8 +17,8 @@ div {
   background-color: #eee;
 }
 
-.blue {
-  background-color: blue;
+.cyan {
+  background-color: #00BACB;
 }
 
 .invisible {
@@ -30,4 +30,12 @@ div {
   border: 3px black dashed;
   border-radius: 0;
   background-color: white;
+}
+
+.pink {
+  background-color: #f70087; 
+}
+
+.orange {
+  background-color: #FFAA00;
 }
